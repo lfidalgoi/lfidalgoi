@@ -2,16 +2,30 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Primer ejercicio: Visualización de datos II</title>
+    <title>Segundo ejercicio: Visualización de datos II</title>
   </head>
   <body>
-  
-  <h1> Gráficos de salud: Coronavirus </h1>
- <p>Los gráficos son interactivos (aunque lo que vemos son capturas y no tienen movimiento). Están muy bien visualizados y propuestos dado que la manera de mostrarlos es clara y muy visual. Por colores, nombres y banderas al lado de cada uno de los nombres de las CCAA. Es decir, que los datos están bien plasmados y los usuarios que se metan a observar la evolución verán de manera muy directa y trasparente y esclarecida la evolución pandémica de tres hechos diferenciados.</p>
- 
- <p>Estas gráficas de visualización de datos muestran la evolución epidemiológica de las diferentes Comunidades Autónomas en cuanto a número de fallecidos por cada 100.000 habitantes desde el inicio de la pandemia hasta el día actual en la que lo consultes ( por ejemplo en la gráfica 3: 09-03.2021). Lo mismo en la gráfica 2, que muestra la ocupación de las camas UCI por CCAA desde el inicio hasta ahora y la gráfica 1 que muestra la incidencia acumulada en los últimos 14 días de las CCAA.</p><p>#Visualización de datos II</p>
- 
- <img src="images/firefox-icon.png" alt="">
- <a> https://www.antena3.com/noticias/salud/tres-graficos-que- </a>
+<h1> Gráficos sobre el acoso escolar en España </h1>
+
+<p>El <em>cyberbullying</em> se conoce como el ejercicio que se ejerce a través de la redes y/o medios telemáticos (Internet, videojuegos y redes sociales) para acosar psicológicamente a individuos. </p>
+
+<p>El problema del <em>ciberacoso</em> es una problemática que ha generado numerosos problemas en la sociedad sobre todo entre los más jóvenes. El anonimato es uno de los factores que más daño causan 
+
+<p>Al menos el 6,9% de los estudiantes españoles han sufrido ciberacoso. Además está relacionado muy de cerca con la edad de los usuarios, donde los menores de edad son los más afectados por este acoso que se desarrolla mayormente en las redes sociales y conforme entran  en la adolescencia de vuelve más hábito.Además, son el sexo femenino las que declaran haber vivido más de cerca el ciberacoso. </p>
+
+<p>Estas gráficas nos visualizan los datos de esta problemática del buylling el cual nos deja 1.054 casos de acoso escolar denunciados en 2017 en España. Según datos Cuerpo Nacional de Policía, Guardia Civil y cuerpos de Policía Local, lo que implica una variación de un 11,65% respecto al año inmediatamente anterior. </p>
+
+<h2> ¿Cómo son estas gráficas?
+
+<p>La tipografía utilizada en las gráficas del estudio son totalmente correctas, fáciles de entender y totalmente reproducibles. Los colores son variables pero siempre bien utilizados y los tipos de gráfica en su mayoría son de barras y mapas en casos especiales para hablar de casos del acoso escolar por provincias. Además la funcionalidad es correcta dado que tanto las descargas de las imágenes como de los datos además del código de inserción vienen totalmente indicados debajo de cada una de ellas y son accesibles.</p>
+
+<p>El texto que acompaña a la imagen la complementa, pero sin embargo una vez que les el título de la gráfica y ves la gráfica y sus indicaciones, no hace falta leer el texto más que para completar con más información, dado que está muy clara y explicada en la representación.</p>
+
+<p>Las escalaras de colores en esta temática tampoco son muy necesarias como si fuera en otros casos como política o naturaleza, con colores muy claros y designados mentalmente por los humanos. Sin embargo como se menciona anteriormente es adecuada y cuidada. La narrativa visual y su relación con la narrativa textual es algo básica pero entendible, lo que principalmente importa al usuario a la hora de poder contextualizar, entender y comprehender el texto y la información.</p>
+
+<p>Otros elementos que se utilizan con enlaces a otros links que añaden más información y la composición es muy fácil de seguir debido a la sencillez de la elaboración. Unas gráficas y un estudio muy útil y básico con gráficos vectoriales de calidad.</p>
+
+ <img src="images/>
+ <a> https://www.epdata.es/datos/acoso-escolar-datos-cifras-estadisticas/257/espana/106 </a>
   </body>
 </html>
